@@ -1,0 +1,10 @@
+// @import'components/*';
+// @import'base/fonts*';
+
+
+.input{
+    border:1px solid grey;
+    &::placeholder{
+        color:green;
+    }
+}
